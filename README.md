@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Colleen Rose
 - 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning Solidity w/Brownie
+- 🌱 I’m currently learning in the Chainshot Bootcamp
 - 💞️ I’m looking to collaborate on beginner-friendly projects
 
 
