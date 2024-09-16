@@ -11,7 +11,7 @@
 - **[VoiceDeck](https://github.com/VoiceDeck/app):** Platform for the discovery and contribution of retroactive funding of impactful grassroots journalism in India.
 - **[UniRep Ceremony](https://github.com/Unirep/ceremony):** Frontend for the public trusted-setup ceremony, used to generate the secure proving keys that enable UniRep's trustless zero-knowledge circuits.
 - **[UniRep Explorer](https://github.com/Unirep/explorer):** Blockchain explorer for dicovering apps built on top of the UniRep protocol and their related transactions.
-- **[Trustlist](https://github.com/trustlist/trustlist):** Peer-to-peer marketplace platform with built with zero-knowledge technology to embed a dynamic, anonymous reputation system.
+- **[Trustlist](https://github.com/trustlist/trustlist):** Peer-to-peer marketplace platform built with zero-knowledge technology to embed a dynamic, anonymous reputation system.
 
 <!--- You can view these and more [here](https://jeromehardaway.github.io/#). --->
 
