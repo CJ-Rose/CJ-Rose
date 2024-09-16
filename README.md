@@ -1,6 +1,6 @@
 
 ## About Me
-👋 Hi, I'm CJ Rose! I’m a software engineer working at **Pollen Labs**, focused on projects that are at the intersection of blockchain technology and social good.
+👋 Hi, I'm CJ Rose! I’m a software engineer working at **[Pollen Labs](github/Pollen-labs)**, focused on projects that are at the intersection of blockchain technology and social good.
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, TypeScript, Solidity
