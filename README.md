@@ -16,7 +16,7 @@
 
 ## Professional Goals 🚀
 - **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my skills in product strategy and creative collaboration. I’m currently working on a data visualization platform to present the environmental impacts of a highly-regarded social enterprise.
-- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. I'm currently enjoying learning d3.js for React and upgrading my blockchain integration skills.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. I'm currently enjoying learning d3.js for data viz and upgrading my blockchain integration skills.
 
 
 
