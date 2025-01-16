@@ -3,8 +3,8 @@
 👋 Hi, I'm CJ Rose! I’m a software engineer working at **[Pollen Labs](github/Pollen-labs)**, focused on projects that are at the intersection of blockchain technology and public good.
 
 ## Technical Skills 🛠️
-- **Languages:** JavaScript, TypeScript, Solidity
-- **Frameworks & Libraries:** React, Next.js, Node.js, Tailwind
+- **Languages:** TypeScript, JavaScript, Solidity
+- **Frameworks & Libraries:** React, Vite, Tanstack, Next.js, Node.js, Tailwind
 
 ## Key Projects 📚
 - **[VoiceDeck](https://github.com/VoiceDeck/app):** Platform for the discovery and contribution of retroactive funding of impactful grassroots journalism in India.
